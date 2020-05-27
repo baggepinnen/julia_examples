@@ -9,4 +9,7 @@ This repository will contain various examples of machine learning and signal pro
 
 - [Audio categorization using LDA and bag-of-audio words](https://nbviewer.jupyter.org/github/baggepinnen/julia_examples/blob/master/audio_topics.ipynb): Categorizing audio samples based on their frequency contents.
 
-- [Measure distance between spectrograms using Dynamic Time Warping and Optimal Transport](https://nbviewer.jupyter.org/github/baggepinnen/julia_examples/blob/master/frequency_warping.ipynb): In this example, we will explore Dynamic Time Warping (DTW) and see if we can combine it with optimal transport. The application is distance measurement between two spectrograms. 
+- [Measure distance between spectrograms using Dynamic Time Warping and Optimal Transport](https://nbviewer.jupyter.org/github/baggepinnen/julia_examples/blob/master/frequency_warping.ipynb): In this example, we will explore Dynamic Time Warping (DTW) and see if we can combine it with optimal transport. The application is distance measurement between two spectrograms.
+
+
+- [Measure distance between spectrograms using Dynamic Time Warping and Optimal Transport 2](https://nbviewer.jupyter.org/github/baggepinnen/julia_examples/blob/master/frequency_warping2.ipynb): More difficult version of the previous entry.
