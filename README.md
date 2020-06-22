@@ -15,3 +15,6 @@ This repository will contain various examples of machine learning and signal pro
 - [Measure distance between spectrograms using Dynamic Time Warping and Optimal Transport 2](https://nbviewer.jupyter.org/github/baggepinnen/julia_examples/blob/master/frequency_warping2.ipynb): A continuation of the previous entry where the distances are used more extensively for detection.
 
 - [Fish detection](https://nbviewer.jupyter.org/github/baggepinnen/julia_examples/blob/master/fish_detection.ipynb): In this example we use both DTW and optimal transport to detect fish sounds.
+
+
+- [British bird classification](https://nbviewer.jupyter.org/github/baggepinnen/julia_examples/blob/master/british_birds.ipynb): In this example we use distances and root embeddings to classify birds. The dataset can be found here https://www.kaggle.com/rtatman/british-birdsong-dataset?select=birdsong_metadata.csv
